@@ -1,0 +1,5 @@
+mapping (address) => [string] ipfs CID where task is stored
+create JSON for object
+use pinata to upload to ipfs
+fetch list of CIDs
+sort on the frontend
